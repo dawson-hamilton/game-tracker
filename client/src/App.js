@@ -5,7 +5,6 @@ function App() {
   return (
     <div>
       <Signup />
-      <h1>this is a test</h1>
     </div>
   );
 }
