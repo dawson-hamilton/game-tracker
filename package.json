@@ -33,5 +33,9 @@
     "path": "^0.12.7",
     "react-bootstrap": "^1.0.0",
     "react-router-dom": "^5.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawson-hamilton/game-tracker.git"
   }
 }
